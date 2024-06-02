@@ -1,14 +1,14 @@
 Industrial Copper Modeling
 
-Introduction
+Introduction:
 
 The Industrial Copper Modeling project focuses on predicting the selling price and status (won or lost) in the industrial copper market using machine learning regression and classification algorithms. By exploring the dataset, performing data cleaning and preprocessing, and applying various machine learning techniques, we aim to develop models that can accurately predict the selling price and status in the copper market.
 
-Dataset
+Dataset:
 
 The dataset used for this analysis contains information about industrial copper transactions, including variables such as selling price, quantities, and status (won or lost). It provides a comprehensive view of the copper market and factors that influence the outcomes of transactions.
 
-Project Learnings
+Project Learnings:
 
 The main learnings from this project are as follows:
 
@@ -22,7 +22,7 @@ The main learnings from this project are as follows:
 
 4.Evaluation and Model Selection: Evaluate the performance of regression and classification models using appropriate metrics such as mean squared error (MSE), accuracy, precision, and recall. Select the best-performing models based on these metrics.
 
-Requirements
+Requirements:
 
 To run this project, the following libraries are needed:
 
