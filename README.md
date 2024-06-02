@@ -53,4 +53,5 @@ Machine Learning Classification: Apply different machine learning classification
 Documentation: Prepare a comprehensive documentation summarizing the steps involved in the analysis, including the preprocessing techniques, machine learning algorithms used, and their performance. Include visualizations and interpretations to effectively communicate the results.
 
 Conclusion:
+
 The Industrial Copper Modeling project aims to predict the selling price and status in the industrial copper market using machine learning techniques.
