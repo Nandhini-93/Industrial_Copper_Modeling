@@ -27,13 +27,19 @@ Requirements
 To run this project, the following libraries are needed:
 
 NumPy: A library for numerical computations in Python.
+
 Pandas: A library for data manipulation and analysis.
+
 Scikit-learn: A machine learning library that provides various regression and classification algorithms.
+
 Matplotlib: A plotting library for creating visualizations.
+
 Seaborn: A data visualization library built on top of Matplotlib.
+
 Make sure these libraries are installed in your Python environment before running the project.
 
-Methodology
+Methodology:
+
 Data Loading: Load the industrial copper dataset into the code using pandas library. Perform initial data exploration to understand the structure and content of the dataset.
 
 Data Cleaning and Preprocessing: Handle missing values, remove outliers if necessary, and perform necessary data transformations such as encoding categorical variables. This step ensures the data is in a suitable format for analysis.
@@ -46,5 +52,5 @@ Machine Learning Classification: Apply different machine learning classification
 
 Documentation: Prepare a comprehensive documentation summarizing the steps involved in the analysis, including the preprocessing techniques, machine learning algorithms used, and their performance. Include visualizations and interpretations to effectively communicate the results.
 
-Conclusion
+Conclusion:
 The Industrial Copper Modeling project aims to predict the selling price and status in the industrial copper market using machine learning techniques.
